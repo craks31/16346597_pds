@@ -1,0 +1,23 @@
+                           Logit Regression Results                           
+==============================================================================
+Dep. Variable:                Frailty   No. Observations:                   10
+Model:                          Logit   Df Residuals:                        7
+Method:                           MLE   Df Model:                            2
+Date:                Tue, 26 Sep 2023   Pseudo R-squ.:                  0.5731
+Time:                        21:47:09   Log-Likelihood:                -2.8729
+converged:                       True   LL-Null:                       -6.7301
+Covariance Type:            nonrobust   LLR p-value:                   0.02113
+================================================================================
+                   coef    std err          z      P>|z|      [0.025      0.975]
+--------------------------------------------------------------------------------
+Intercept      -11.6108     10.576     -1.098      0.272     -32.340       9.118
+Weight           0.4314      0.273      1.580      0.114      -0.104       0.967
+GripStrength    -0.6079      0.441     -1.380      0.168      -1.471       0.256
+================================================================================
+P-values:Intercept       0.272288
+Weight          0.114208
+GripStrength    0.167622
+dtype: float64
+IF P-VALUE IS LESS THAN 0.05 THEN THE INDEPENDENT VARIABLES ARE SIGNIFICANT IN DETERMINING THE FRAILTY
+Weight is not significant in determining the Frailty for given Data Set
+GripStrength is not significant in determining the Frailty for given Data Set
