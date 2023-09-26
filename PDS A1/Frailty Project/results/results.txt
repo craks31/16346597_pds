@@ -4,7 +4,7 @@ Dep. Variable:                Frailty   No. Observations:                   10
 Model:                          Logit   Df Residuals:                        7
 Method:                           MLE   Df Model:                            2
 Date:                Tue, 26 Sep 2023   Pseudo R-squ.:                  0.5731
-Time:                        21:47:09   Log-Likelihood:                -2.8729
+Time:                        21:58:31   Log-Likelihood:                -2.8729
 converged:                       True   LL-Null:                       -6.7301
 Covariance Type:            nonrobust   LLR p-value:                   0.02113
 ================================================================================
