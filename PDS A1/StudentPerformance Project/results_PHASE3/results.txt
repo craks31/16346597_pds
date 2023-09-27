@@ -3,22 +3,18 @@ Analysis Simplification for Viusalisation 1
 
 Box Plot of Reading Scores by Gender
 The box plot provides a visual comparison of the distribution of reading scores between male and female students. This comparison allows you to quickly assess whether there are differences in the central tendency and spread of scores between the two gender groups.Identification of Key Statistics: The box plot displays important summary statistics, such as the median (the line inside the box), the interquartile range (the height of the box), and potential outliers (individual data points beyond the "whiskers").
-
 Analysis Simplification for Viusalisation 2
 
 Histograms of Exam Scores by Gender
 Analysis Simplification: By visualizing the distribution of scores separately for male and female students, you can quickly compare the performance of the two groups. This separation makes it easier to identify differences or similarities in exam scores between genders. It simplifies the analysis by breaking it down into two distinct groupsUnderstanding Score Distributions: Histograms provide a clear overview of the score distributions. You can see the central tendency (e.g., where the majority of scores lie) and the spread (e.g., the range of scores) for each subject. This helps in understanding the typical performance of male and female students in each subject.Detecting Gender-Based Patterns: If there are notable patterns, such as differences in the shape of the distributions or shifts in the means, they become apparent in the histograms. For example, you might observe that female students tend to have higher reading scores than male students.
-
 Analysis Simplification for Viusalisation 3
 
 Correlation Heatmap of Exam Scores
 The correlation heatmap provides a clear visual representation of the strength and direction of correlations between variables. It helps you prioritize variables that are strongly correlated. For example, if you're interested in predicting student performance, you can quickly identify which subjects (math, reading, or writing) have the strongest correlations with each other. 
-
 Analysis Simplification for Viusalisation 4
 
 Grouped box plots for analyzing how parental Education affects student performance
 Each box plot provides insights into how different levels of parental education are associated with the distribution of scores in each subject. You can easily compare the medians, quartiles, and potential outliers for each education level.
-
 Analysis Simplification for Viusalisation 5
 
 Grouped box plots for analyzing how race/ethnicity affects student performance
