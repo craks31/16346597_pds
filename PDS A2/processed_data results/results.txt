@@ -25,6 +25,6 @@ dtype: int64
 
 #Reasons
 
-New_Price is dropped because there are many missing values which are more than 50%, so we cannot it populate the missing fields with either mean, mode or median.
+New_Price is dropped because there are many missing values which are more than 50%, so we cannot populate the missing fields with either mean, mode or median.
 Median is used for Mileage and Power. It provides a robust measure of central tendency, especially in the presence of potential outliers. It ensures that the imputed values are less affected by extreme values and better represent the central value of the distribution.
 For Seats and Engine, I have used mode. The reason here is Engine capacities and seats for the given dataset may not exhibit a wide range of values. There are common engine capacities and seat capacities that are used in a significant number of cars, making it the mode.
