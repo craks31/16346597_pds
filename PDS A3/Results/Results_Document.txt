@@ -1,0 +1,23 @@
+1. Glucose Comparison:
+
+The sample indicates a higher mean glucose value (130.84) compared to the population mean (120.89), suggesting a potential increase. Additionally, the sample's highest glucose value (187) is lower than the population's highest value (199), indicating a relatively moderate peak in the sample.
+
+Mean Glucose value is: 120.89
+Highest Glucose value is: 199
+
+Sample Mean Glucose value is: 130.84
+Sample Highest Glucose value is: 187
+
+2.BMI Comparision:
+
+The sample's 98th percentile BMI (45.85) is slightly lower than the population's 98th percentile BMI (47.53), suggesting a subtle decrease in the sample's extreme BMI values.
+
+3.Blood Pressure Comparision:
+
+There are Variations in blood pressure metrics for population and bootstrap sample averages, 
+Population Mean Blood Pressure: 69.11
+Population Standard Deviation Blood Pressure: 19.36
+Population 90th Percentile Blood Pressure: 88.0
+Sample Mean: 69.05
+Sample Standard Deviation: 19.24
+Sample 90th Percentile: 87.36
